@@ -1,21 +1,24 @@
 [
     {
+      "url": "https://abymael1895.github.io/music-api/music/pop/Calm_Before_Storm.mp3",
       "title": "Calm Before Storm",
       "artist": "Mubert Inc",
-      "file": "https://abymael1895.github.io/music-api/music/pop/Calm_Before_Storm.mp3",
-      "cover": "https://<usuario>.github.io/music-api/music/pop/calm_before_storm.jpg"
+      "image": "https://<usuario>.github.io/music-api/music/pop/calm_before_storm.jpg",
+      "genre": "lofi"
     },
     {
+      "url": "https://<usuario>.github.io/music-api/music/pop/Corporate_Office_Study_Room.mp3",
       "title": "Corporate Office Study Room",
       "artist": "Mubert Inc",
-      "file": "https://<usuario>.github.io/music-api/music/pop/Corporate_Office_Study_Room.mp3",
-      "cover": "https://<usuario>.github.io/music-api/music/pop/Corporate_Office_Study_Room.jpg"
+      "image": "https://<usuario>.github.io/music-api/music/pop/Corporate_Office_Study_Room.jpg",
+      "genre": "lofi"
     },
     {
+      "url": "https://<usuario>.github.io/music-api/music/pop/Floating_Vibes.mp3",
       "title": "Floating Vibes",
-      "artist": "Luna",
-      "file": "https://<usuario>.github.io/music-api/music/pop/Floating_Vibes.mp3",
-      "cover": "https://<usuario>.github.io/music-api/music/pop/Floating_Vibes.jpg"
+      "artist": "Mubert Inc",
+      "image": "https://<usuario>.github.io/music-api/music/pop/Floating_Vibes.jpg",
+      "genre": "lofi"
     }
   ]
   
