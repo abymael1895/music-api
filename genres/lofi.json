@@ -1,16 +1,16 @@
 [
     {
-      "url": "https://abymael1895.github.io/music_api/music/lofi/Calm_Before_Storm.mp3",
-      "title": "Calm Before Storm",
-      "artist": "Mubert Inc",
-      "image": "https://abyamel1895.github.io/music_api/music/lofi/Calm_Before_Storm.jpg",
-      "genre": "lofi"
-    },
-    {
       "url": "https://abymael1895.github.io/music_api/music/lofi/Corporate_Office_Study_Room.mp3",
       "title": "Corporate Office Study Room",
       "artist": "Mubert Inc",
       "image": "https://abymael1895.github.io/music_api/music/lofi/Corporate_Office_Study_Room.jpg",
+      "genre": "lofi"
+    },
+    {
+      "url": "https://abymael1895.github.io/music_api/music/lofi/Floating_Vibes.mp3",
+      "title": "Floating Vibes",
+      "artist": "Mubert Inc",
+      "image": "https://abymael1895.github.io/music_api/music/lofi/Floating_Vibes.jpg",
       "genre": "lofi"
     }
   ]
