@@ -1,0 +1,45 @@
+[
+    {
+      "url": "https://abymael1895.github.io/music_api/music/classical/Baboon_Dance.mp3",
+      "title": "Babbon Dance",
+      "artist": "Mubert Inc",
+      "image": "https://abymael1895.github.io/music_api/music/classical/Baboon_Dance.png",
+      "genre": "classical"
+    },
+    {
+      "url": "https://abymael1895.github.io/music_api/music/classical/Baseline.mp3",
+      "title": "Baseline",
+      "artist": "Mubert Inc",
+      "image": "https://abymael1895.github.io/music_api/music/classical/Baseline.png",
+      "genre": "classical"
+    },
+    {
+      "url": "https://abymael1895.github.io/music_api/music/classical/Oblivion_Calls.mp3",
+      "title": "Oblivion Calls",
+      "artist": "Mubert Inc",
+      "image": "https://abymael1895.github.io/music_api/music/classical/Oblivion_Calls.png",
+      "genre": "classical"
+    },
+    {
+      "url": "https://abymael1895.github.io/music_api/music/classical/Piano_Sonata_No14.mp3",
+      "title": "Piano Sonata No 14",
+      "artist": "Mubert Inc",
+      "image": "https://abymael1895.github.io/music_api/music/classical/Piano_Sonata_No14.png",
+      "genre": "classical"
+    },
+    {
+      "url": "https://abymael1895.github.io/music_api/music/classical/Silver_Moment.mp3",
+      "title": "Silver Moment",
+      "artist": "Mubert Inc",
+      "image": "https://abymael1895.github.io/music_api/music/classical/Silver_Moment.png",
+      "genre": "classical"
+    },
+    {
+      "url": "https://abymael1895.github.io/music_api/music/classical/Steroids.mp3",
+      "title": "Steroids",
+      "artist": "Mubert Inc",
+      "image": "https://abymael1895.github.io/music_api/music/classical/Steroids.png",
+      "genre": "classical"
+    }
+  ]
+  
